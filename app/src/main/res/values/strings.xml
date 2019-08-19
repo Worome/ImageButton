@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageButton</string>
+    <string name="ib1">Niño</string>
+    <string name="ib2">Teléfono</string>
+</resources>
