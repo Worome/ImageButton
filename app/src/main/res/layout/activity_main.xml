@@ -14,7 +14,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="132dp"
         android:contentDescription="@string/ib1"
-        android:onClick="ib1"
+        android:onClick="<"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
